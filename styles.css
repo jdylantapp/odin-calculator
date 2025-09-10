@@ -82,6 +82,7 @@ h1 {
     font-size: x-large;
     font-family: sans-serif;
     box-shadow: rgb(30, 30, 30) 2px 3px 2px;
+    user-select: none;
 }
 
 .numberButtons {
@@ -98,6 +99,7 @@ h1 {
     font-size: x-large;
     font-family: sans-serif;
     box-shadow: rgb(30, 30, 30) 2px 3px 2px;
+    user-select: none;
     
 }
 
