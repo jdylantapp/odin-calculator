@@ -11,7 +11,6 @@ h1 {
     flex-direction: column;
     height: 380px;
     width: 250px;
-    justify-self: center;
     margin: 0 auto;
     border-radius: 20px;
     box-shadow: rgb(30, 30, 30) 3px 6px 15px;
